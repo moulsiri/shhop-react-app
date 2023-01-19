@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c19bab12.css",
+    "main.js": "/static/js/main.ef763013.js",
+    "static/media/bg.png": "/static/media/bg.d01e6ae31577a4369711.png",
+    "static/media/remixicon.svg?t=1590207869815": "/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/remixicon.eot?t=1590207869815": "/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/Error.png": "/static/media/Error.a3c3daae3b0041ae7bd7.png",
+    "static/media/remixicon.woff?t=1590207869815": "/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/remixicon.woff2?t=1590207869815": "/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/internalServer.png": "/static/media/internalServer.b36332bd4bb67469d112.png",
+    "static/media/makeOrder.png": "/static/media/makeOrder.ec8325a53fdca91f5d86.png",
+    "static/media/noCard.png": "/static/media/noCard.a5499b3f64ea1334a920.png",
+    "index.html": "/index.html",
+    "main.c19bab12.css.map": "/static/css/main.c19bab12.css.map",
+    "main.ef763013.js.map": "/static/js/main.ef763013.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c19bab12.css",
+    "static/js/main.ef763013.js"
+  ]
+}
